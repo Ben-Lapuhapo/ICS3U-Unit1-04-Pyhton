@@ -2,7 +2,7 @@
 
 # Created by: Ben Lapuhapo
 # Created on: September 12 2019
-# This program calculates area and perimeter of a rectangle
+# This program calculates area and perimeter of a rectangle!
 
 
 def main():
